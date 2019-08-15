@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+Unreal/Intermediate/
+Unreal/Saved/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta

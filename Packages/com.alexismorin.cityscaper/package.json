@@ -1,0 +1,12 @@
+{
+    "name": "com.alexismorin.cityscaper",
+    "displayName": "Cityscaper",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "Procedurally generate city & foliage layouts for Skyboxes.",
+    "keywords": [
+        "tools",
+        "level art"
+    ],
+    "category": "Open-Source"
+}
