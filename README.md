@@ -1,7 +1,7 @@
 # Cityscaper
 ## Unity Skybox Detail Geometry Tool
 
-In almost every single project I worked on that involved a view of the outside world through a window I end up requiring some sort of low-overhead, large scale detail geometry for my skybox environment. After making a bunch repeatedly, I decided that I would make a tool so I would never have to do it again! With this s
+In almost every single project I worked on that involves a view of the outside world through a window I end up requiring some sort of low-overhead, large scale detail geometry for my skybox environment. After making a bunch repeatedly, I decided that I would make a tool so I would never have to do it again!
 
 ![Header](images/header.png)
 
