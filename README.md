@@ -9,12 +9,14 @@ In almost every single project I worked on that involved a view of the outside w
 
 After install, just drag the *Cityscaper* prefab from the package folder and get going!
 
+![Usage](images/usage.png)
+
 - The **Urban Density** slider affects the ratio of city-to-nature.
 - The **Voxel Size** slider controls the space between each spawned item. The default value is fine but you might want to adjust it for performance or the size of your buildings.
 - The **Noise Magnitude** slider controls how noisy the generated city/surrounding foliage will be. Low values give you vineyards and Manhattan and higher values just sparse medieval towns.
 - The **Building** and **Nature** prefab arrays contain which actual meshes will be spawned. Feel free to use the ones included as-is, or just pluck in your own meshes for easy customization. Special shaders that randomize the features of buildings and trees are included in the project - simply color the vertex colors of the roofs white when authoring your own meshes.
 
-![Usage](images/usage.png)
+![Shader](images/shader.png)
 
 ### Installation
 
